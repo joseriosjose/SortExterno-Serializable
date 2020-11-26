@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=cp\ calle\ numero\ colonia\ destinatario
+comment0.target=Carta(int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getcp()
+comment2.params=
+comment2.target=java.lang.String\ getcalle()
+comment3.params=
+comment3.target=int\ getnumero()
+comment4.params=
+comment4.target=java.lang.String\ getcolonia()
+comment5.params=
+comment5.target=java.lang.String\ getdestinatario()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=x
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8

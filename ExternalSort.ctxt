@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExternalSort
+comment1.params=n
+comment1.target=void\ Ordenar(int)
+comment2.params=fileName
+comment2.target=void\ externalSort(java.lang.String)
+comment3.params=n
+comment3.target=java.lang.String\ generateInput(int)
+numComments=4

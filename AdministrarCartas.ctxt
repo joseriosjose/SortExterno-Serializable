@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AdministrarCartas
+comment1.params=
+comment1.target=AdministrarCartas()
+comment1.text=Cargar\ los\ arreglos\ de\ cp,\ colonias,\ nombres\ y\ apellidos
+comment2.params=nArchivo
+comment2.target=int\ fSize(java.lang.String)
+comment3.params=nCartas
+comment3.target=Carta[]\ leerObjetos(int)
+comment4.params=nCartas
+comment4.target=java.lang.String\ guardarObjetos2(int)
+comment4.text=El\ argumento\ es\ el\ numero\ de\ objetos\ a\ generar
+numComments=5

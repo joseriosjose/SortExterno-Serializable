@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=cartas
+comment0.target=void\ quicksort(Carta[])
+comment1.params=lista1\ izq\ der
+comment1.target=void\ quicksortS(Carta[],\ int,\ int)
+numComments=2
